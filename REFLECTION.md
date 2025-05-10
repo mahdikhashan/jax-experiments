@@ -1,3 +1,3 @@
 # TODO
 
-- [] i dono how to compare to array 
+- [] i dono how to compare two array 
