@@ -9,5 +9,6 @@ mkShell {
 
   shellHook = ''
     uv --version
+    uv add scikit-learn
   '';
 }
